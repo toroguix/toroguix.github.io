@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://toroguix.github.io/sitemap.html.gz
+Sitemap: https://toroguix.github.io/app/sitemap.html.gz
+Sitemap: https://toroguix.github.io/assets/sitemap.html.gz
+Sitemap: https://toroguix.github.io/css/sitemap.html.gz
+Sitemap: https://toroguix.github.io/data/sitemap.html.gz
+Sitemap: https://toroguix.github.io/includes/sitemap.html.gz
+Sitemap: https://toroguix.github.io/item/sitemap.html.gz
+Sitemap: https://toroguix.github.io/src/sitemap.html.gz
